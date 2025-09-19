@@ -11,6 +11,16 @@
   },
   "keywords": ["typescript", "orchestrator", "workflow", "events"],
   "author": "Kelvin Fomukong Siweh Nkweche <kelvinsiweh19@gmail.com>",
+  "contributors": [
+    {
+      "name": "Kelvin Fomukong Siweh Nkweche",
+      "email": "kelvinsiweh19@gmail.com"
+    },
+    {
+      "name": "Ndemafia",
+      "email": "wilsmithndemafia@gmail.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
@@ -26,8 +36,4 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }
-}
-
-{
-  "name": "task-orchestrator-core"
 }
