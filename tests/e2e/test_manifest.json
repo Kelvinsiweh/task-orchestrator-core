@@ -1,1 +1,2 @@
 [2025-09-19 20:48:25 +0100] fix: add boundary checks for malformed input payloads (ref: f2caea90, by: Ndemafia)
+[2025-10-10 16:58:52 +0100] fix: add boundary checks for malformed input payloads (ref: 19f121dc, by: Ndemafia)
