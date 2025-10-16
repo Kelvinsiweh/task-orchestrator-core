@@ -18,3 +18,4 @@
 [2026-08-13 14:40:14 +0100] fix: add boundary checks for malformed input payloads (ref: cd261952, by: Ndemafia)
 [2026-09-05 19:03:37 +0100] fix: add boundary checks for malformed input payloads (ref: 83af4f03, by: Kelvin Fomukong Siweh Nkweche)
 [2025-09-20 13:35:40 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: 7cc0fc36, author: Ndemafia Wilsmith)
+[2025-10-16 19:30:09 +0100] fix(security): sanitize external inputs to prevent injection vectors (ref: 86bc24dc, author: Ndemafia Wilsmith)
