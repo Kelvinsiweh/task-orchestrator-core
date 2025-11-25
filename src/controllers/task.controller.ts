@@ -27,3 +27,6 @@ export const createTaskRouter = (taskService: TaskService): Router => {
 
   return router;
 };
+
+
+router.delete('/:id', (req, res) => res.json({ status: 'cancelled' }));
