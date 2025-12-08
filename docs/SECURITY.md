@@ -3,3 +3,4 @@
 [2025-11-01 18:52:31 +0100] docs: expand security hardening guidelines and best practices (ref: 6f5c470e, by: Ndemafia)
 [2025-11-04 12:50:58 +0100] docs: expand security hardening guidelines and best practices (ref: f2fce56b, by: Ndemafia)
 [2025-11-26 14:29:40 +0100] docs: expand security hardening guidelines and best practices (ref: 043d11b5, by: Ndemafia)
+[2025-12-08 11:47:39 +0100] docs: expand security hardening guidelines and best practices (ref: 825d5052, by: Ndemafia)
