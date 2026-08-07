@@ -23,3 +23,6 @@ npm install
 npm run build
 npm start
 ```
+
+### State Flow
+PENDING -> RUNNING -> COMPLETED
