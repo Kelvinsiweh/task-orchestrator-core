@@ -43,3 +43,5 @@ describe('TaskService Lifecycle', () => {
     expect(failed.error).toBe('Connection timeout');
   });
 });
+
+// Concurrency test
